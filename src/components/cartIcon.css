@@ -1,0 +1,9 @@
+.carticon i {
+    font-size: 24px;
+    color: rgb(66, 66, 66);
+}
+.carticon span{
+    position: absolute;
+    top: 3px;
+    right: 8px;
+}
